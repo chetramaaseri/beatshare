@@ -1,5 +1,4 @@
 import Footer from "../components/footer";
-import JoinRoomForm from "../components/joinRoomForm";
 import TopNav from "../components/topnav";
 
 function NotFoundPage() {
